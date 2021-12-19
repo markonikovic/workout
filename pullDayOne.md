@@ -9,6 +9,7 @@
 * 1RM = 1 Rep Maximum
 
 # Log 12.17.2021.
+
 ## Deadlift:
   1. 20kg x 5
   1. 30kg x 5
@@ -27,7 +28,7 @@
   1. 15kg x 12
   1. 15kg x 12
   1. 15kg x 10
-## Hammer Curls ===> Dumbbell Tricep Extensions:
+## Hammer Curls ==> Dumbbell Tricep Extensions:
   1. 15kg x 12
   1. 15kg x 12
   1. 15kg x 12
